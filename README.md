@@ -17,4 +17,4 @@
 
 นายชินวร สิทธิราช 643020471-9 sec.2 (chinnaworn)
 
-<img src="/main/media/278519_103485329750056_7320115_o.jpg" width="256" height="auto">
+<img src="/media/278519_103485329750056_7320115_o.jpg" width="256" height="auto">

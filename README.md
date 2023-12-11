@@ -18,3 +18,7 @@
 นายชินวร สิทธิราช 643020471-9 sec.2 (chinnaworn)
 
 <img src="/media/278519_103485329750056_7320115_o.jpg" width="256" height="auto">
+
+นางสาวนัชชา คล่องดี 643020479-3 sec.2 (Natch2)
+
+<img src="/media/natcha.jpg" width="256" height="auto">

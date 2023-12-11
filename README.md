@@ -8,7 +8,8 @@
 <img src="/media/317362_104901099621074_1145792876_n.jpg" width="256" height="auto">
 
 นายกอบโชค วรรณโนมัย 643021215-2 sec.2 (KobchokeWannomai)
-<img src="/media/.jpg" width="256" height="auto">
+
+<img src="media/IMG_25660925_151108.jpg" width="256" height="auto">
 
 นายวันทยวัฑน์ ฝ่ายคำตา 643021252-6 sec.2 (wanthayawat)
 

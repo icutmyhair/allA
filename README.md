@@ -10,5 +10,6 @@
 นายกอบโชค วรรณโนมัย 643021215-2 sec.2 (KobchokeWannomai)
 <img src="/media/.jpg" width="256" height="auto">
 
-นายวันทยวัฑน์ ฝ่ายคำตา 643021252-6 sec.2 (wanthayawat)
+
 <img src="/media/Wanthayawat.jpg" width="256" height="auto">
+นายวันทยวัฑน์ ฝ่ายคำตา 643021252-6 sec.2 (wanthayawat)
